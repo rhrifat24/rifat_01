@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/11/T_Sports_logo.png/200px-T_Sports_logo.png" group-title="Sports",T Sports
+http://10.192.0.3:8082/T-SPORTS/tracks-v1a1/mono.m3u8?token=31f0dc82172e08ba6658946788c51ec06d6dcaea-1bdac57766ffd5d25353de30afefb1b2-1699787768-1699776968
